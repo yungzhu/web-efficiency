@@ -380,3 +380,5 @@ chrome 提供了大量工具，比如 Elements 可以用来检查节点；Networ
 ![performance](images/performance.png)
 
 效率化远远不止这些，比如引擎的选择，包体的管理等等都可以去思考，并且在不断发展中，只要大家有着这样的思想和思路，加上不断积累和总结，我相信会越做越好，希望每个开发团队，做到既能提高效率，又能节省时间，实现有更多的时间去喝茶，让别人去加班的理想吧。
+
+文档 git 地址，欢迎补充 https://github.com/yungzhu/web-efficiency
